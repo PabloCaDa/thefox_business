@@ -483,7 +483,7 @@ nav {
 }
 
 #maps {
-    background-image: url("./assets/img/canarias.jpg");
+    background-image: url("../img/canarias.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 30px 20px 20px 20px;
