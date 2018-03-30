@@ -172,7 +172,7 @@ nav {
 }
 
 #header {
-    background-image: url("./assets/img/header_background.jpg");
+    background-image: url("../img/header_background.jpg");
     background-size: cover;
     border-top: 1px solid rgb(145, 159, 169);
     padding: 235px 0 20px 0;
